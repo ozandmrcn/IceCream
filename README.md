@@ -35,12 +35,24 @@ You can view a demo of the project by visiting the following link:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation  
 ### Setup NOTES:
+```bash
+# Clone the repository
+git clone https://github.com/ozandmrcn/IceCream.git
+
+# Navigate to the project folder
+cd IceCream
+
+# Install the required dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Run JSON server
+npm run server
+```
 > ⚠️ This project uses **JSON Server** to simulate a REST API.  
 > Make sure `db.json` exists in the project root directory and contains product data.  
-> Start the server with:  
-> `npm run server`  
-> Then start the dev server with:  
-> `npm run dev`
 
 ## 📧 Contact  
 For any questions or feedback, feel free to contact:  
