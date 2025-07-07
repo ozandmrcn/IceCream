@@ -30,6 +30,8 @@ IceCream enables users to:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo  
 You can view a demo of the project by visiting the following link:  
 [IceCream Demo](https://ozanicecream.netlify.app)
+### Note:
+> ⚠️ This projects API is not avaliable on Netlify.
 
 ## Preview  
 
