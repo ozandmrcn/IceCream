@@ -34,6 +34,9 @@ You can view a demo of the project by visiting the following link:
 > ⚠️ This project's API is not avaliable on Netlify beacause of json-server.
 
 ## Preview  
+![image](https://github.com/user-attachments/assets/9092d59d-b3c5-4369-a905-eb93aac6f9c7)
+![image](https://github.com/user-attachments/assets/8b7681e1-bcc1-4a0c-b8f2-f8607ea274e3)
+![image](https://github.com/user-attachments/assets/1606a66f-36f4-4014-8ab0-f80226337329)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation  
 ### Setup NOTES:
