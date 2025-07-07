@@ -31,7 +31,7 @@ IceCream enables users to:
 You can view a demo of the project by visiting the following link:  
 [IceCream Demo](https://ozanicecream.netlify.app)
 ### Note:
-> ⚠️ This projects API is not avaliable on Netlify.
+> ⚠️ This project's API is not avaliable on Netlify beacause of json-server.
 
 ## Preview  
 
